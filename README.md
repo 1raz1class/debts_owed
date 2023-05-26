@@ -8,7 +8,7 @@ Threshold assignments like this also one occur in medicine (above a certain temp
 2. **Graphical exploratory data analysis:** Create a scatter plot of Age vs. Expected Recovery Amount.
 3. **Statistical test: age vs. expected recovery amount:** Compute the average age just above and just below the threshold then test if these average ages are different.
 4. **Statistical test: sex vs. expected recovery amount:** Compute the chi-square test for Sex versus Recovery Strategy to see if the sex distribution differs across Recovery Strategy.
-5. **Exploratory graphical analysis: recovery amount:**
+5. **Exploratory graphical analysis: recovery amount:** Create a scatter plot of Actual Recovery Amount versus Expected Recovery Amount.
 6. **Statistical analysis: recovery amount:**
 7. **Regression modeling: no threshold:**
 8. **Regression modeling: adding true threshold:**

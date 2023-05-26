@@ -12,4 +12,4 @@ Threshold assignments like this also one occur in medicine (above a certain temp
 6. **Statistical analysis: recovery amount:** Test if the average actual recovery amounts just above and just below the threshold are different.
 7. **Regression modeling: no threshold:** Compute a regression model to predict the actual recovery amount (y) using expected recovery amount (x).
 8. **Regression modeling: adding true threshold:** Compute a regression model to predict the actual recovery amount using expected recovery amount and the recovery strategy as the indicator.
-9. **Regression modeling: adjusting the window:**
+9. **Regression modeling: adjusting the window:** Perform the same analysis in task 8, but for the range of $950 to $1050.

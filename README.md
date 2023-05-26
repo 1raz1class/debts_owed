@@ -6,7 +6,7 @@ Threshold assignments like this also one occur in medicine (above a certain temp
 ## Contents 
 1. **Regression discontinuity: banking recovery:** Load the data.
 2. **Graphical exploratory data analysis:** Create a scatter plot of Age vs. Expected Recovery Amount.
-3. **Statistical test: age vs. expected recovery amount:**
+3. **Statistical test: age vs. expected recovery amount:** Compute the average age just above and just below the threshold then test if these average ages are different.
 4. **Statistical test: sex vs. expected recovery amount:**
 5. **Exploratory graphical analysis: recovery amount:**
 6. **Statistical analysis: recovery amount:**
